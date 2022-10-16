@@ -1,6 +1,6 @@
 # Machine learning project
 
-### Data visualozation and Accuracy metrics
+## Data visualization and Accuracy metrics
 
 Load a dataset, preprocces on the data, visualizing data and use the data on three model and calculate the accuracy using 
 
@@ -16,19 +16,19 @@ Load a dataset, preprocces on the data, visualizing data and use the data on thr
 
 - sklearn.metrics import accuracy_score
 
-### Basic of Open-CV
+## Basic of Open-CV
 
 Capture a video using open-cv, loading the picture, make changes on the picture using
 
 - open-cv library
 
-### Hand pose 3-d
+## Hand pose 3-d
 
 Detects hands movement using
 
 - media pipe and open-cv
 
-### Breast cancer using SVM
+## Breast cancer using SVM
 
 Detects breast cancer using 
 
