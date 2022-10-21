@@ -36,8 +36,8 @@ Detects breast cancer using
 
 ## Customer segmentation using PCA
 
-check my notes for PCA [here]().
+check my notes for PCA [here](https://github.com/rojinakashefi/Machine-Learning-Projects/blob/main/notes/PCA.pdf).
 
 ## Image processing using PCA
 
-check my notes for PCA [here]().
+check my notes for PCA [here](https://github.com/rojinakashefi/Machine-Learning-Projects/blob/main/notes/PCA.pdf).
