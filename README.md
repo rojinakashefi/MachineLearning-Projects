@@ -22,7 +22,7 @@ Capture a video using open-cv, loading the picture, make changes on the picture 
 
 - open-cv library
 
-## Hand pose 3-d
+## Hand pose 3d
 
 Detects hands movement using
 
