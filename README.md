@@ -33,3 +33,11 @@ Detects hands movement using
 Detects breast cancer using 
 
 - Sklearn.SVM svc module
+
+### Customer segmentation using PCA
+
+check my notes for PCA [here]().
+
+### Image processing using PCA
+
+check my notes for PCA [here]().
