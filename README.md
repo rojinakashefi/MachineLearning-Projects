@@ -34,10 +34,10 @@ Detects breast cancer using
 
 - Sklearn.SVM svc module
 
-### Customer segmentation using PCA
+## Customer segmentation using PCA
 
 check my notes for PCA [here]().
 
-### Image processing using PCA
+## Image processing using PCA
 
 check my notes for PCA [here]().
