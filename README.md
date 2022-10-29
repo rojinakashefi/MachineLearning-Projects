@@ -36,8 +36,22 @@ Detects breast cancer using
 
 ## Customer segmentation using PCA
 
-check my notes for PCA [here](https://github.com/rojinakashefi/Machine-Learning-Projects/blob/main/notes/PCA.pdf).
+Segments customer based on their similar products.
+
+- Cross tab matrix (user, products)
+
+- Reducing Crosstab using PCA
+
+- Finding clusters bettween Principle components
+
+- Clustering those principle components using Kmeans Algortihm
+
+check for **Kmeans Algorithm** [here](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a).
+
+check my notes for **PCA** [here]().
+
+check for Kmeans and PCA [here](https://medium.com/more-python-less-problems/principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset-577b2a7a5fe2).
 
 ## Image processing using PCA
 
-check my notes for PCA [here](https://github.com/rojinakashefi/Machine-Learning-Projects/blob/main/notes/PCA.pdf).
+check my notes for PCA [here]().
