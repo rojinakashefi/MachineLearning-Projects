@@ -50,5 +50,12 @@ check for **Kmeans Algorithm** [here](https://towardsdatascience.com/k-means-clu
 
 check my notes for **PCA** [here](https://github.com/rojinakashefi/Machine-Learning-Projects/blob/main/notes/PCA.pdf).
 
-check for Kmeans and PCA [here](https://medium.com/more-python-less-problems/principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset-577b2a7a5fe2).
+## Digit recognition using PyTorch
 
+Kaggle competition, which recognize digits using CNN architecture.
+
+- PyTorch
+
+- CNN architecture
+
+- 
