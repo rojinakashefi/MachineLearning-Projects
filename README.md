@@ -58,4 +58,4 @@ Kaggle competition, which recognize digits using CNN architecture.
 
 - CNN architecture
 
-- 
+
